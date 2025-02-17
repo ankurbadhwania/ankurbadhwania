@@ -22,4 +22,5 @@ Pre final year Computer Science student with experience in software development 
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/ankur-yadav-3b4826198/" target="_blank">Ankur</a> Email: ankurbadhwania@gmail.com</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-yadav-3b4826198/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=rgb(52,%20168,%2083)&color=rgb(52,%20168,%2083))](mailto:ankurbadhwania@gmail.com?subject=)
